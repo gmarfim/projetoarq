@@ -1,0 +1,1 @@
+Casa|Casa dos Gigantes|Rua dos Gigantes|10000.0|true

@@ -1,0 +1,2 @@
+Casa|Cada dos Gigantes|Rua dos Gigantes|100000.0|true
+Apartamento|Apartamento dos Gnomos|Rua dos Gnomos|100000.0|10
